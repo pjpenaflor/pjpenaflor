@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pjpenaflor
 - 👀 I’m interested in anything that's cool
-- 🌱 I’m currently learning REST, Angular js, & React
+- 🌱 I’m currently learning a couple of cool things
 - 💞️ I’m looking to collaborate on again, anything cool
 - 📫 You can reach me at pen.philip@gmail.com
 
